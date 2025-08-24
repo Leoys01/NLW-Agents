@@ -74,7 +74,6 @@ const perguntarAI = async (question, game, apiKey) => {
   return data.candidates[0].content.parts[0].text;
 };
 
-// chave AIzaSyAh0Loo3fllCIAc6QZXRloUaMSXcWY5_U4
 const sendForm = async (event) => {
   event.preventDefault();
   const apiKey = apiKeyInput.value;
@@ -104,3 +103,4 @@ const sendForm = async (event) => {
 };
 
 form.addEventListener('submit', sendForm);
+
