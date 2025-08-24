@@ -1,6 +1,6 @@
 # NLW Agents
 
-Projeto desenvolvido durante um evento da RockSeat para demostrar o uso de agentes (Gemini) na web.
+Projeto desenvolvido durante um evento da RocketSeat para demostrar o uso de agentes (Gemini) na web.
 
  [Vídeo do projeto](https://youtu.be/EhNJEqvBuDM)
 
@@ -8,6 +8,7 @@ Projeto desenvolvido durante um evento da RockSeat para demostrar o uso de agent
 - Html
 - CSS
 - JavaScript
+
 
 
 
